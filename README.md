@@ -1,4 +1,4 @@
-## Documentation for COVID-19 Testing Data in Italy
+## Aggregator of COVID-19 References for Italy
 
-Read the [document](https://pitmonticone.github.io/covid-italy/owid-testing-italy.html).
+Explore the [dashboard](https://pitmonticone.github.io/covid-italy/dashboard.html).
 
